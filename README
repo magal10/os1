@@ -1,0 +1,23 @@
+magal.gafni, morv.96
+Magal Gafni (315857052), Mor Vazana (315658831)
+EX: 1
+
+FILES:
+myfile.c -- a file with some code
+myfile.h -- a file with some headers
+
+REMARKS:
+These are some remarks that
+I want the graders to know
+about this submission.
+
+ANSWERS:
+
+Assignment 1:
+given 1 argument the program creates directory with the name "Welcome", in This directory it crates
+another directory named "To", and inside this directory it creates a file in write-only mode, named
+"OS2021". Inside the file the program writes "<user name>\nIf you haven't read the course
+guidelines yet --- do it right now!\n1". After that the program deletes the file and the two
+directories. If a wrong number of arguments are given the program prints
+"Error. The program should receive a single argument. Exiting.\n" and after that ": Success\n".
+
